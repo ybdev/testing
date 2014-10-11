@@ -7,6 +7,7 @@ namespace ConsoleApplication1
         private static void Main(string[] args)
         {
             Console.WriteLine("Huhu !! ");
+            Console.WriteLine("Huhu !! FT-123456789");
         }
     }
 }
